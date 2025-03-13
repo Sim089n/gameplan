@@ -1,0 +1,95 @@
+------ match day 1 ------
+LFC-HSV-ooo
+FCN-FCB-laff
+SGD-awfaga
+FCSP-awfaga
+------ match day 2 ------
+FCN-SGD-FCSP
+awfaga-laff-lwfa
+LFC-ooo
+HSV-ooo
+------ match day 3 ------
+FCB-SGD-laff
+LFC-HSV-FCSP
+lwfa-ooo
+FCN-lwfa
+------ match day 4 ------
+LFC-FCN-laff
+SGD-HSV-awfaga
+FCB-ooo
+FCB-lwfa
+------ match day 5 ------
+FCN-SGD-FCSP
+LFC-FCB-ooo
+HSV-lwfa
+HSV-awfaga
+------ match day 6 ------
+HSV-lwfa-ooo
+FCN-awfaga-laff
+SGD-FCSP
+FCB-SGD
+------ match day 7 ------
+LFC-FCB-lwfa
+FCN-SGD-laff
+awfaga-ooo
+FCSP-ooo
+------ match day 8 ------
+LFC-FCSP-awfaga
+FCB-SGD-ooo
+FCN-lwfa
+laff-lwfa
+------ match day 9 ------
+LFC-FCB-FCSP
+FCN-HSV-lwfa
+laff-ooo
+SGD-ooo
+------ match day 10 ------
+FCN-FCB-HSV
+SGD-awfaga-ooo
+LFC-FCSP
+LFC-laff
+------ match day 11 ------
+FCB-SGD-FCSP
+LFC-FCN-HSV
+laff-lwfa
+lwfa-ooo
+------ match day 12 ------
+LFC-HSV-awfaga
+FCN-FCB-lwfa
+SGD-ooo
+SGD-laff
+------ match day 13 ------
+awfaga-laff-lwfa
+FCB-FCSP-ooo
+LFC-FCN
+LFC-SGD
+------ match day 14 ------
+HSV-awfaga-lwfa
+LFC-FCN-FCB
+SGD-laff
+laff-ooo
+------ match day 15 ------
+FCB-FCSP-lwfa
+FCN-HSV-ooo
+SGD-awfaga
+LFC-laff
+------ match day 16 ------
+LFC-awfaga-lwfa
+FCB-HSV-laff
+FCN-FCSP
+FCN-ooo
+------ match day 17 ------
+LFC-lwfa-ooo
+FCB-HSV-laff
+FCSP-awfaga
+FCN-SGD
+------ match day 18 ------
+awfaga-laff-ooo
+LFC-SGD-lwfa
+FCB-HSV
+FCN-FCSP
+------ match day 19 ------
+HSV-FCSP-laff
+FCN-awfaga-ooo
+SGD-lwfa
+LFC-SGD

@@ -1,0 +1,9 @@
+channels:
+- defaults
+dependencies:
+  - pip
+  - python
+  - setuptools
+  - numpy
+  - typer
+  - pandas
